@@ -2,8 +2,11 @@
   "name": "landing-sample",
   "version": "0.0.0",
   "dependencies": {
+    "autoprefixer": "^10.4.2",
     "next": "^12.1.0",
+    "postcss": "^8.4.8",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "tailwindcss": "^3.0.23"
   }
 }
